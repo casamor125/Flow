@@ -1,0 +1,77 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flowapp:testapp",
+			"script": "app:test",
+			"description": "Runs the test suite.",
+			"group": "verification",
+			"project": "app",
+			"buildFile": "C:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow\\app\\build.gradle",
+			"rootProject": "Flow",
+			"projectFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"workspaceFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:test"
+		},
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flowapp:buildapp",
+			"script": "app:build",
+			"description": "Assembles and tests this project.",
+			"group": "build",
+			"project": "app",
+			"buildFile": "C:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow\\app\\build.gradle",
+			"rootProject": "Flow",
+			"projectFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"workspaceFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:build"
+		},
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flowapp:runapp",
+			"script": "app:run",
+			"description": "Runs this project as a JVM application",
+			"group": "application",
+			"project": "app",
+			"buildFile": "C:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow\\app\\build.gradle",
+			"rootProject": "Flow",
+			"projectFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"workspaceFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:run"
+		},
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flowapp:cleanapp",
+			"script": "app:clean",
+			"description": "Deletes the build directory.",
+			"group": "build",
+			"project": "app",
+			"buildFile": "C:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow\\app\\build.gradle",
+			"rootProject": "Flow",
+			"projectFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"workspaceFolder": "c:\\Users\\bielc\\Entronos\\Entornos\\Prueba\\Flow",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:clean"
+		}
+	]
+}
