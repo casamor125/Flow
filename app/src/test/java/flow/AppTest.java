@@ -13,7 +13,7 @@ class AppTest {
     }
 @Test void testSumar(){
     App classUnderTest = new App();
-    assertEquals(5, classUnderTest.sumar(2, 3));
+    assertEquals(7, classUnderTest.sumar(2, 3));
 
 }
 
